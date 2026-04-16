@@ -1,0 +1,147 @@
+{
+  "extracted_at": "2026-04-16T18:39:16.752Z",
+  "total_videos": 15,
+  "transcribed": 15,
+  "failed": 0,
+  "playlists": [
+    "PLzhhyYV5hBQc7A90tvu249Qvl19RrRvAh",
+    "PLzhhyYV5hBQfUJNsVJvICKsJg54hPii0y"
+  ],
+  "videos": [
+    {
+      "id": "bvw8H3dHedY",
+      "title": "O que é um FUNIL DE VENDAS? | BÁSICO DO BÁSICO - FUNIS #01",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2025-03-05T19:54:34Z",
+      "url": "https://youtube.com/watch?v=bvw8H3dHedY",
+      "word_count": 11016,
+      "file": "transcripts/o-que-é-um-funil-de-vendas-básico-do-básico---funis-#01.md"
+    },
+    {
+      "id": "yjw2f7PEaL8",
+      "title": "TUDO SOBRE PRODUTO FRONT-END | BÁSICO DO BÁSICO - FUNIS #02",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2025-03-05T19:54:59Z",
+      "url": "https://youtube.com/watch?v=yjw2f7PEaL8",
+      "word_count": 11043,
+      "file": "transcripts/tudo-sobre-produto-front-end-básico-do-básico---funis-#02.md"
+    },
+    {
+      "id": "WDLOZ4wU5JM",
+      "title": "O QUE SÃO BACK-END | BÁSICO DO BÁSICO - FUNIS #03",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2025-03-11T21:52:57Z",
+      "url": "https://youtube.com/watch?v=WDLOZ4wU5JM",
+      "word_count": 12387,
+      "file": "transcripts/o-que-são-back-end-básico-do-básico---funis-#03.md"
+    },
+    {
+      "id": "BSHBZETGr7s",
+      "title": "TUDO SOBRE HIGH TICKET | BÁSICO DO BÁSICO - FUNIS #04",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2025-03-19T12:46:40Z",
+      "url": "https://youtube.com/watch?v=BSHBZETGr7s",
+      "word_count": 9011,
+      "file": "transcripts/tudo-sobre-high-ticket-básico-do-básico---funis-#04.md"
+    },
+    {
+      "id": "b0T5xQUzmHY",
+      "title": "OFERTAS DE UM FUNIL DE VENDAS | BÁSICO DO BÁSICO - FUNIS #05",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2025-04-07T12:11:55Z",
+      "url": "https://youtube.com/watch?v=b0T5xQUzmHY",
+      "word_count": 8150,
+      "file": "transcripts/ofertas-de-um-funil-de-vendas-básico-do-básico---funis-#05.md"
+    },
+    {
+      "id": "FPEXpa98A0U",
+      "title": "TUDO SOBRE EVENTOS DE UM FUNIL DE VENDAS | BÁSICO DO BÁSICO - FUNIS #06",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2025-04-23T12:47:43Z",
+      "url": "https://youtube.com/watch?v=FPEXpa98A0U",
+      "word_count": 11014,
+      "file": "transcripts/tudo-sobre-eventos-de-um-funil-de-vendas-básico-do-básico---funis-#06.md"
+    },
+    {
+      "id": "xPi5mXg4Ntg",
+      "title": "BÁSICO DO BÁSICO #01 | AUDIÊNCIA",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2024-07-11T13:42:18Z",
+      "url": "https://youtube.com/watch?v=xPi5mXg4Ntg",
+      "word_count": 18587,
+      "file": "transcripts/básico-do-básico-#01-audiência.md"
+    },
+    {
+      "id": "kytm7upUoM4",
+      "title": "BÁSICO DO BÁSICO #02 | AIDA",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2024-07-11T13:42:18Z",
+      "url": "https://youtube.com/watch?v=kytm7upUoM4",
+      "word_count": 17095,
+      "file": "transcripts/básico-do-básico-#02-aida.md"
+    },
+    {
+      "id": "ztNCwkkX2co",
+      "title": "BÁSICO DO BÁSICO #03 | PRECIFICAÇÃO",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2024-08-23T14:08:57Z",
+      "url": "https://youtube.com/watch?v=ztNCwkkX2co",
+      "word_count": 16338,
+      "file": "transcripts/básico-do-básico-#03-precificação.md"
+    },
+    {
+      "id": "d-kqjkE8vGg",
+      "title": "BÁSICO DO BÁSICO #04 | DIFERENÇA ENTRE PUBLICO FEMININO/MASCULINO",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2024-07-18T11:50:57Z",
+      "url": "https://youtube.com/watch?v=d-kqjkE8vGg",
+      "word_count": 19989,
+      "file": "transcripts/básico-do-básico-#04-diferença-entre-publico-femininomasculino.md"
+    },
+    {
+      "id": "s4kx6ZWSjYg",
+      "title": "BÁSICO DO BÁSICO #05 | OFERTA",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2024-08-01T11:37:58Z",
+      "url": "https://youtube.com/watch?v=s4kx6ZWSjYg",
+      "word_count": 16859,
+      "file": "transcripts/básico-do-básico-#05-oferta.md"
+    },
+    {
+      "id": "39NxT-huDnc",
+      "title": "BÁSICO DO BÁSICO #06 | GATILHOS MENTAIS",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2024-08-08T12:22:30Z",
+      "url": "https://youtube.com/watch?v=39NxT-huDnc",
+      "word_count": 20255,
+      "file": "transcripts/básico-do-básico-#06-gatilhos-mentais.md"
+    },
+    {
+      "id": "XoSIeRROx2Y",
+      "title": "BÁSICO DO BÁSICO #07 | VÍDEO DE VENDAS",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2024-08-15T14:17:33Z",
+      "url": "https://youtube.com/watch?v=XoSIeRROx2Y",
+      "word_count": 15457,
+      "file": "transcripts/básico-do-básico-#07-vídeo-de-vendas.md"
+    },
+    {
+      "id": "ds5o3xrhohI",
+      "title": "BÁSICO DO BÁSICO #08 | COPYWRITING",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2024-08-21T11:38:35Z",
+      "url": "https://youtube.com/watch?v=ds5o3xrhohI",
+      "word_count": 21785,
+      "file": "transcripts/básico-do-básico-#08-copywriting.md"
+    },
+    {
+      "id": "5wqs76CQiOo",
+      "title": "O FIM DO BÁSICO DO BÁSICO",
+      "channel": "Ícaro de Carvalho",
+      "published_at": "2024-08-26T12:18:32Z",
+      "url": "https://youtube.com/watch?v=5wqs76CQiOo",
+      "word_count": 18253,
+      "file": "transcripts/o-fim-do-básico-do-básico.md"
+    }
+  ]
+}
